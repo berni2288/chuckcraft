@@ -1,0 +1,68 @@
+Name Boeing 707 - Swiss Air
+ShortName Boeing707Swiss
+ItemID 28191
+Icon IconBoeing707Swiss
+Model Boeing707
+Texture SkinBoing707Swiss
+MaxPropellerSpeed 4.0
+TakeOffSpeed 1.0
+CameraDistance 60.0
+PropSetup 1
+PropellerPos 0 -312 39 -60
+PropellerPos 1 -184 26 40
+ShootDelay 999
+BombDelay 999
+CargoSlots 32
+BombSlots 0
+Health 3000
+CollisionBoxes 0
+AllowWingGuns False
+AllowNoseGuns False
+AllowSideGuns False
+AllowTailGuns False
+AllowDorsalGun False
+AddGunPosition 0 0 0 45
+AddGunPosition 1 0 0 45
+BombPosition 0 -16 -52
+TurnLeftSpeed 0.5
+TurnRightSpeed 0.5
+RollLeftSpeed 0.5
+RollRightSpeed 0.5
+LookUpSpeed 0.5
+LookDownSpeed 0.5
+Acceleration 1
+Decceleration 1
+FuelTankSize 10000
+MaxHeight 256
+StartSound viper
+StartSoundLength 20
+PropSound viper
+PropSoundLength 30
+ShootSound gatling
+BombSound bomb
+Pilot 12 76 292 //Pilots Position
+Passengers 13 //No of Passengers
+Passenger 0 -12 67 292 0 //Passenger 1
+Passenger 1 32 62 171 0 //Passenger 2
+Passenger 2 32 62 147 0 //Passenger 3
+Passenger 3 32 62 123 0 //Passenger 4
+Passenger 4 32 62 99 0 //Passenger 5
+Passenger 5 32 62 75 0 //Passenger 6
+Passenger 6 32 62 51 0 //Passenger 7
+Passenger 7 -32 62 171 0 //Passenger 2
+Passenger 8 -32 62 147 0 //Passenger 3
+Passenger 9 -32 62 123 0 //Passenger 4
+Passenger 10 -32 62 99 0 //Passenger 5
+Passenger 11 -32 62 75 0 //Passenger 6
+Passenger 12 -32 62 51 0 //Passenger 7
+BigTable True
+//Recipe
+Propeller Propeller_Steel_TurbineCivil
+Cockpit Cockpit_Boeing707
+Wings Wings_Steel_WingLargePlane
+Bay Bay_Steel_BayPassengerbay
+Tail Tail_Steel_TailLarge
+Dyes Red
+HasGear True
+HasDoor True
+HasWing False

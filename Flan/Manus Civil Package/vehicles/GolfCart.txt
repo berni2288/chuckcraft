@@ -1,0 +1,45 @@
+Name Golf Cart
+ShortName GolfCart2
+ItemID 28104
+Icon IconGolfCart
+Model GolfCart
+Texture SkinGolfCart
+MaxSpeed 10.0
+ShootDelay 999
+ShellDelay 999
+CargoSlots 1
+//Actually shell slots
+BombSlots 0
+Health 200
+CollisionBoxes 0
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 1
+TurnRightSpeed 1
+Acceleration 2
+Decceleration 2
+FuelTankSize 100
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+Driver -7 9 21
+Passengers 1
+Passenger 0 7 0 21 0
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+WheelPosition 0 -14 2 -6 //VL
+WheelPosition 1 -14 2 32 //HL
+WheelPosition 2 14 2 32 //HR
+WheelPosition 3 14 2 -6 //VR
+//Recipe
+Chassis Chassis_Aluminium_ChassisCarSmall
+FrontWheels Wheel_Steel_WheelCarLight
+BackWheels Wheel_Steel_WheelCarLight
+Tracks None
+Turret None
+Dyes LGrey

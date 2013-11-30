@@ -1,0 +1,46 @@
+Name White F1 Racer
+ShortName RacerWhite
+ItemID 28165
+Icon IconF1f
+Model F1
+Texture SkinF1_6
+MaxSpeed 20.0
+ShootDelay 999
+ShellDelay 999
+CargoSlots 0
+BombSlots 0
+Health 300
+CollisionBoxes 3
+AddCollisionBox 0 0 6 -25 0
+AddCollisionBox 1 0 6 7 0
+AddCollisionBox 2 0 6 37 0
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 2
+TurnRightSpeed 2
+Acceleration 10
+Decceleration 10
+FuelTankSize 2000
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+Driver 0 -4 13 //Pilots Position
+Passengers 0 //No of Passengers
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+WheelPosition 0 -9 -5 -24 //Front Left
+WheelPosition 1 -9 -5 39 //Back Left
+WheelPosition 2 9 -5 39 //Back Right
+WheelPosition 3 9 -5 -24 //Front Right
+//Recipe
+Chassis Chassis_Titan_ChassisCarSmall
+FrontWheels Wheel_Titan_WheelCarLight
+BackWheels Wheel_Titan_WheelCarLight
+Tracks None
+Turret None
+Dyes White

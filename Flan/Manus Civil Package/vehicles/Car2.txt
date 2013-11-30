@@ -1,0 +1,46 @@
+Name Pink cadilac
+ShortName Cadilac
+ItemID 28101
+Icon IconCar2
+Model Car2
+Texture SkinCar2
+MaxSpeed 15.0
+ShootDelay 999
+ShellDelay 999
+CargoSlots 32
+BombSlots 0
+Health 300
+CollisionBoxes 0
+AllowBodyGuns False
+AllowTurretGuns False
+TurnLeftSpeed 2
+TurnRightSpeed 2
+Acceleration 5
+Decceleration 5
+FuelTankSize 1000
+StartSound Engine
+StartSoundLength 20
+EngineSound Engine
+EngineSoundLength 20
+ShootSound bullet
+ShellSound shell
+Driver -8 0 0
+Passengers 3
+Passenger 0 7 2 0 0
+Passenger 1 -8 2 17 0
+Passenger 2 7 2 17 0
+GunYawMin -45
+GunYawMax 45
+GunPitchMin -45
+GunPitchMax 45
+WheelPosition 0 -16 -6 -14 //VL
+WheelPosition 1 -16 -6 29 //HL
+WheelPosition 2 16 -6 29 //HR
+WheelPosition 3 16 -6 -14 //VR
+//Recipe
+Chassis Chassis_Steel_ChassisCarMedium
+FrontWheels Wheel_Steel_WheelCarLight
+BackWheels Wheel_Steel_WheelCarLight
+Tracks None
+Turret None
+Dyes Pink
