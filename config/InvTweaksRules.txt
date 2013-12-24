@@ -6,10 +6,6 @@
 ====== [ SETTINGS ] ======
 
 D LOCKED
-D1 sword
-D2 shovel
-D3 pickaxe
-D4 axe
 
 ======== [ GETTING STARTED ] ========
 

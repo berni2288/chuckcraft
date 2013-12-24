@@ -5,113 +5,126 @@
 ####################
 
 block {
-    I:"Amaranth Button"=3200
-    I:"Amaranth Fence Gate"=3201
-    I:"Amaranth Pressure Plate"=3202
-    I:"Amaranth Stairs"=3203
-    I:"Amaranth Trapdoor"=3204
+    I:"Activator Blaze Rail"=4064
+    I:"Amaranth Button"=3898
+    I:"Amaranth Fence Gate"=3885
+    I:"Amaranth Pressure Plate"=3923
+    I:"Amaranth Stairs"=3936
+    I:"Amaranth Trapdoor"=3911
     I:Berry_Bush=3257
+    I:"Blaze Hopper"=4060
+    I:"Blaze Rail"=4085
     I:"Bloodwood Block"=3263
-    I:"Bloodwood Button"=3205
+    I:"Bloodwood Button"=3902
     I:"Bloodwood Door"=3268
-    I:"Bloodwood Fence Gate"=3206
-    I:"Bloodwood Pressure Plate"=3207
-    I:"Bloodwood Stairs"=3208
-    I:"Bloodwood Trapdoor"=3209
+    I:"Bloodwood Fence Gate"=3889
+    I:"Bloodwood Pressure Plate"=3926
+    I:"Bloodwood Stairs"=3939
+    I:"Bloodwood Trapdoor"=3914
     I:"Blue Glowshroom"=3273
     I:Bookshelf=3284
     I:"Cloud Block"=3253
     I:"Crafting Table"=3283
     I:Crops=3260
-    I:"Darkwood Button"=3210
-    I:"Darkwood Fence Gate"=3211
+    I:"Darkwood Button"=3895
+    I:"Darkwood Fence Gate"=3882
     I:"Darkwood Leaves"=3272
     I:"Darkwood Log"=3271
-    I:"Darkwood Pressure Plate"=3212
-    I:"Darkwood Stairs"=3213
-    I:"Darkwood Trapdoor"=3214
+    I:"Darkwood Pressure Plate"=3920
+    I:"Darkwood Stairs"=3932
+    I:"Darkwood Trapdoor"=3907
+    I:"Detector Blaze Rail"=4065
     I:"Eucalyptus Door"=3264
-    I:"Eucalyputus Button"=3215
-    I:"Eucalyputus Fence Gate"=3216
-    I:"Eucalyputus Pressure Plate"=3217
-    I:"Eucalyputus Stairs"=3218
-    I:"Eucalyputus Trapdoor"=3219
+    I:"Eucalyputus Button"=3906
+    I:"Eucalyputus Fence Gate"=3893
+    I:"Eucalyputus Pressure Plate"=3930
+    I:"Eucalyputus Stairs"=3943
+    I:"Eucalyputus Trapdoor"=3918
     I:Fence=3285
     I:"Flora Leaves"=3259
     I:Flower=3281
-    I:"Fusewood Button"=3220
-    I:"Fusewood Fence Gate"=3224
-    I:"Fusewood Pressure Plate"=3232
-    I:"Fusewood Stairs"=3233
+    I:"Fusewood Button"=3894
+    I:"Fusewood Fence Gate"=3881
+    I:"Fusewood Pressure Plate"=3919
+    I:"Fusewood Stairs"=3931
     I:"Fusewood Trapdoor"=3234
-    I:"Ghostwood Button"=3235
+    I:"Ghostwood Button"=3904
     I:"Ghostwood Door"=3267
-    I:"Ghostwood Fence Gate"=3237
-    I:"Ghostwood Pressure Plate"=3238
-    I:"Ghostwood Stairs"=3239
-    I:"Ghostwood Trapdoor"=3240
+    I:"Ghostwood Fence Gate"=3891
+    I:"Ghostwood Pressure Plate"=3928
+    I:"Ghostwood Stairs"=3941
+    I:"Ghostwood Trapdoor"=3916
     I:"Glowing Mushroom"=3270
     I:"Green Glowshroom"=3274
-    I:"Hopseed Button"=3241
+    I:"Hopseed Button"=3901
     I:"Hopseed Door"=3265
-    I:"Hopseed Fence Gate"=3243
-    I:"Hopseed Pressure Plate"=3244
-    I:"Hopseed Stairs"=3245
-    I:"Hopseed Trapdoor"=3246
+    I:"Hopseed Fence Gate"=3888
+    I:"Hopseed Pressure Plate"=3925
+    I:"Hopseed Stairs"=3938
+    I:"Hopseed Trapdoor"=3913
     I:"Ladder Four"=3247
     I:"Ladder One"=3248
     I:"Ladder Three"=3249
     I:"Ladder Two"=3250
     I:"Log Slab"=3276
-    I:"Maple Button"=3288
-    I:"Maple Fence Gate"=3289
-    I:"Maple Pressure Plate"=3290
-    I:"Maple Stairs"=3291
-    I:"Maple Trapdoor"=3292
+    I:"Maple Button"=3900
+    I:"Maple Fence Gate"=3887
+    I:"Maple Pressure Plate"=3924
+    I:"Maple Stairs"=3937
+    I:"Maple Trapdoor"=3912
     I:"Nether Berry Bush"=3255
-    I:"Plank Slab One"=3293
-    I:"Plank Slab Two"=3294
+    I:"Nether Dispenser"=3365
+    I:"Nether Dropper"=4059
+    I:"Nether Glass"=4061
+    I:"Nether Lever"=4058
+    I:"Netherrack Button"=3367
+    I:"Netherrack Furnace"=4063
+    I:"Netherrack Pressure Plate"=3366
+    I:"Plank Slab One"=3945
+    I:"Plank Slab Two"=3944
     I:"Planks Block"=3262
+    I:"Powered Blaze Rail"=4084
     I:"Purple Glowshroom"=3275
     I:"Rare Leaves"=3278
     I:"Rare Log"=3277
     I:"Rare Sapling"=3279
     I:"Redwood Bark Door"=3269
     I:"Redwood Block"=3261
-    I:"Redwood Button"=3296
+    I:"Redwood Button"=3903
     I:"Redwood Door"=3252
-    I:"Redwood Fence Gate"=3297
-    I:"Redwood Pressure Plate"=3298
-    I:"Redwood Stairs"=3299
-    I:"Redwood Trapdoor"=3300
+    I:"Redwood Fence Gate"=3890
+    I:"Redwood Pressure Plate"=3927
+    I:"Redwood Stairs"=3940
+    I:"Redwood Trapdoor"=3915
+    I:"Respawn Obelisk"=4062
     I:"Saguaro Cactus"=3254
-    I:"Sakura Button"=3301
+    I:"Sakura Button"=3905
     I:"Sakura Door"=3266
-    I:"Sakura Fence Gate"=3302
+    I:"Sakura Fence Gate"=3892
     I:"Sakura Leaves"=3258
-    I:"Sakura Pressure Plate"=3303
-    I:"Sakura Stairs"=3304
-    I:"Sakura Trapdoor"=3305
+    I:"Sakura Pressure Plate"=3929
+    I:"Sakura Stairs"=3942
+    I:"Sakura Trapdoor"=3917
     I:Sapling=3256
-    I:"Silverbell Button"=3306
-    I:"Silverbell Fence Gate"=3307
-    I:"Silverbell Pressure Plate"=3308
-    I:"Silverbell Stairs"=3309
-    I:"Silverbell Trapdoor"=3310
+    I:"Silverbell Button"=3899
+    I:"Silverbell Fence Gate"=3886
+    I:"Silverbell Pressure Plate"=3922
+    I:"Silverbell Stairs"=3935
+    I:"Silverbell Trapdoor"=3910
     I:Thornvines=3282
-    I:"Tigerwood Button"=3311
-    I:"Tigerwood Fence Gate"=3312
+    I:"Tigerwood Button"=3897
+    I:"Tigerwood Fence Gate"=3884
     I:"Tigerwood Pressure Plate"=3313
-    I:"Tigerwood Stairs"=3314
-    I:"Tigerwood Trapdoor"=3315
+    I:"Tigerwood Stairs"=3934
+    I:"Tigerwood Trapdoor"=3909
     I:"Topiary Grass Block"=3286
     I:"Topiary Grass Slab"=3287
-    I:"Willow Button"=3316
-    I:"Willow Fence Gate"=3317
+    I:"Willow Button"=3896
+    I:"Willow Fence Gate"=3883
     I:"Willow Log"=3280
-    I:"Willow Pressure Plate"=3318
-    I:"Willow Stairs"=3319
-    I:"Willow Trapdoor"=3320
+    I:"Willow Pressure Plate"=3921
+    I:"Willow Stairs"=3933
+    I:"Willow Trapdoor"=3908
     I:"Wood Block"=3251
 }
 
@@ -161,6 +174,7 @@ disabler {
     B:"Generate Thornvines"=true
     B:"Generate Tigerwood Trees"=true
     B:"Generate Willow Trees"=true
+    B:"Obelisks let players respawn in the Nether"=true
     B:"Override Nether"=true
 }
 
@@ -201,6 +215,7 @@ item {
     I:"Darkwood Sword"=12430
     I:"Door Item"=12406
     I:"Empty Bowl"=12442
+    I:"Flint and Blaze"=12459
     I:"Food Items"=12404
     I:"Fusewood Bow"=12452
     I:"Fusewood Hatchet"=12437
@@ -247,15 +262,24 @@ item {
 
 
 ####################
+# retrogen
+####################
+
+retrogen {
+    B:"Retroactive Generation"=false
+}
+
+
+####################
 # terrain
 ####################
 
 terrain {
     # Requires blockID < 256
-    I:"Heat Sand"=170
+    I:"Heat Sand"=252
 
     # Requires blockID < 256
-    I:"Tainted Soil"=169
+    I:"Tainted Soil"=253
 }
 
 
